@@ -1,1 +1,1 @@
-print"Wassup my kuku!! v7")
+print("Wassup my kuku!! v7")
